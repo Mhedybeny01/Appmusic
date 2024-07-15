@@ -1,0 +1,160 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+@media only screen and (max-width: 600px) {
+    body{
+         
+    background: linear-gradient(180deg, rgb(16, 16, 17) 0%, rgb(0, 0, 0) 90%);
+    height: 800px;
+    width: 100%;
+    }
+.logo{
+    position: absolute;
+    top: 90px;
+    padding-left: 28%;
+    height: 150px;
+    width: 150px;
+
+}
+
+
+
+
+.login{
+    
+    margin-left: 15%;
+    position: absolute;
+    top: 250px;
+    background-color: transparent;
+    border: 1px solid rgb(8, 8, 8);
+    box-shadow: 0px 10px 10px 10px black;
+    padding: 15px;
+    color: white;
+    height: 300px;
+    width: 220px;
+
+   
+}
+
+.title1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+
+}
+.user{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-top: 10px;
+    position: relative;
+    top: 10px;
+
+
+}
+.userin{
+    position: relative;
+    top: 15px;
+    height: 35px;
+    width: 220px;
+    background-color: transparent;
+    border: 1px solid grey;
+    color: rgb(224, 224, 224);
+}
+.userin:hover{
+    border: 1px solid gainsboro;
+    transition: 0.3s;
+}
+
+.pass{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-top: 10px;
+    position: relative;
+    top: 40px;
+
+
+}
+.passin{
+    position: relative;
+    top: 45px;
+    height: 35px;
+    width: 220px;
+    background-color: transparent;
+    border: 1px solid grey;
+    color: rgb(224, 224, 224);
+}
+.passin:hover{
+    border: 1px solid gainsboro;
+    transition: 0.3s;
+}
+
+.btnlogin{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px black;
+    background-color: transparent;
+    border: 1px solid gainsboro;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 65px;
+    left: 65px;
+    cursor: pointer;
+
+}
+.btnlogin:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(6, 6, 138);
+    transition: 0.3s;
+    border: 0px;
+    
+}
+
+.btnfacebook{
+    width:90px;
+    height: 40px;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px black;
+    background-color: transparent;
+    border: 1px solid gainsboro;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 95px;
+    left: 15px;
+    cursor: pointer;
+}
+.btnfacebook:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(6, 6, 138);
+    transition: 0.3s;
+    border: 0px;
+    
+}
+
+
+.btngoogle{
+    width:90px;
+    height: 40px;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px black;
+    background-color: transparent;
+    border: 1px solid gainsboro;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 135px;
+    left: 125px;
+    cursor: pointer;
+}
+
+.btngoogle:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(6, 6, 138);
+    transition: 0.3s;
+    border: 0px;
+    
+}
+
+
+
+}

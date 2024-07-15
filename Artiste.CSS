@@ -1,0 +1,397 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+@media only screen and (max-width: 600px) {
+
+    .navapp{
+        
+        background: linear-gradient(180deg, rgb(16, 16, 17) 0%, rgb(0, 0, 0) 90%);
+        height: 1770px;
+        width: 100%;
+    }
+
+    .t1{
+        padding: 30px 30px;
+        font-size: 35px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+    }
+
+    .links{
+        position: absolute;
+        top: 35px;
+        padding-left: 70%;
+        font-size: 30px;
+        margin-left: 5px;
+        
+        
+    }
+
+    .links a{
+        color: white;
+        margin: 6px;
+    }
+
+    .navbare{
+        background-color: rgba(0, 0, 0, 0.158);
+        height: 40px;
+        width: 100%;
+        position: absolute;
+        top: 1680px;
+        font-size: 35px;
+        
+    }
+
+    .navbare a{
+        color: white;
+        padding-left: 26%;
+    }
+    .list1{
+        position: absolute;
+        top: 100px;
+        margin-left: 7%;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 26px;
+
+
+
+    }
+    .muslim{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 200px;
+        margin-left: 7%;
+        
+       
+
+    }
+    .muslim:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+    .tm1{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 12%;
+        font-size: 15px;
+        position: absolute;
+        top: 350px;
+
+    }
+
+
+    .toto{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 200px;
+        margin-left: 55%;
+       
+
+    }
+    .tm2{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 55%;
+        font-size: 15px;
+        position: absolute;
+        top: 350px;
+
+    }
+    .toto:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+
+    .morphin{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 400px;
+        margin-left: 7%;
+       
+
+    }
+    .tm3{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 12%;
+        font-size: 15px;
+        position: absolute;
+        top: 550px;
+
+    }
+    .morphin:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+    .stormy{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 400px;
+        margin-left: 55%;
+       
+
+    }
+    .tm4{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 60%;
+        font-size: 15px;
+        position: absolute;
+        top: 550px;
+
+    }
+
+
+    .stormy:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+
+
+    .dros{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 600px;
+        margin-left: 7%;
+       
+
+    }
+    .tm5{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 10%;
+        font-size: 15px;
+        position: absolute;
+        top: 750px;
+
+    }
+    .dros:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+    .ssamid{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 600px;
+        margin-left: 55%;
+       
+
+    }
+    .tm6{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 58%;
+        font-size: 15px;
+        position: absolute;
+        top: 750px;
+
+    }
+
+    .ssamid:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+
+
+    .koz1{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 800px;
+        margin-left: 7%;
+       
+
+    }
+    .tm7{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 12%;
+        font-size: 15px;
+        position: absolute;
+        top: 950px;
+
+    }
+    .koz1:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+    .rubio{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 800px;
+        margin-left: 55%;
+       
+
+    }
+    .tm8{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 63%;
+        font-size: 15px;
+        position: absolute;
+        top: 950px;
+
+    }
+    .rubio:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+    .paus{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 1000px;
+        margin-left: 7%;
+       
+
+    }
+    .tm9{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 9%;
+        font-size: 15px;
+        position: absolute;
+        top: 1150px;
+
+    }
+    .paus:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+    .hliwa{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 1000px;
+        margin-left: 55%;
+       
+
+    }
+    .tm10{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 63%;
+        font-size: 15px;
+        position: absolute;
+        top: 1150px;
+
+    }
+
+    .hliwa:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+
+    .small{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 1200px;
+        margin-left: 7%;
+       
+
+    }
+    .tm11{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 12%;
+        font-size: 15px;
+        position: absolute;
+        top: 1350px;
+
+    }
+    .small:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+    .l7or{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 1200px;
+        margin-left: 55%;
+       
+
+    }
+    .tm12{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 63%;
+        font-size: 15px;
+        position: absolute;
+        top: 1350px;
+
+    }
+    .l7or:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+
+    .lferda{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 1400px;
+        margin-left: 7%;
+       
+
+    }
+    .tm13{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 13%;
+        font-size: 15px;
+        position: absolute;
+        top: 1550px;
+
+    }
+    .lferda:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+    .ouenza{
+        height: 140px;
+        width: 140px;
+        box-shadow: 0px 0px 10px black;
+        position: absolute;
+        top: 1400px;
+        margin-left: 55%;
+       
+
+    }
+    .tm14{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 60%;
+        font-size: 15px;
+        position: absolute;
+        top: 1550px;
+
+    }
+    .ouenza:hover{
+        transform: scale(0.9);
+        transition: 0.6s; 
+    }
+}
