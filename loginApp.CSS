@@ -18,7 +18,19 @@
 
 }
 
-
+#good{
+    background-color: rgb(15, 235, 52);
+    color: white;
+    height: 30px;
+    position: relative;
+    top: 15px;
+    width: 200px;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    display: none;
+}
 
 
 #login{
@@ -157,10 +169,10 @@
 #errorueser{
     background-color: red;
     color: white;
-    height: 30px;
+    height: 18px;
     position: relative;
-    top: 18px;
-    width: 200px;
+    top: 20px;
+    width: 250px;
     border-radius: 10px;
     padding: 5px;
     font-family: Arial, Helvetica, sans-serif;
@@ -174,7 +186,7 @@
     height: 30px;
     position: relative;
     top: 45px;
-    width: 200px;
+    width: 230px;
     border-radius: 10px;
     padding: 5px;
     font-family: Arial, Helvetica, sans-serif;
