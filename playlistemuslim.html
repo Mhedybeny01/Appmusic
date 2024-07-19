@@ -2,19 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="playlistemuslim.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Music Playlist</title>
+    <link rel="stylesheet" href="playlistemuslim.css">
 </head>
 <body>
-   
-<div class="playliste">
+    <div class="playlist-container">
+        <img src="muslim.jpeg" class="imgmsl">
+        <h1>Muslim</h1>
+        <audio id="audioPlayer" controls></audio>
+        <ul id="playlist">
+            <li data-src="mslm.mp4">Rmadi</li>
+            <li data-src="music/song2.mp3">Caballero</li>
+            <li data-src="music/song3.mp3">Zan9a</li>
+            <li data-src="mslm.mp4">My leady</li>
+            <li data-src="music/song2.mp3">Jlwk</li>
+            <li data-src="music/song3.mp3">L3ayn l7amra</li>
+        </ul>
+    </div>
 
-<input type="number" id="num1">
-<input type="number" id="num2">
-<input type="submit" onclick="open" id="open">
-</div>
-
+    <script src="playliste.js"></script>
 </body>
 </html>
